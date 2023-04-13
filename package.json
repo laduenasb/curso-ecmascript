@@ -1,0 +1,23 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Aprendiendo la historia de EMAScript y las versiones de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laduenasb/curso-emacscript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Luis Dueñas <luisbulla423@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laduenasb/curso-emacscript/issues"
+  },
+  "homepage": "https://github.com/laduenasb/curso-emacscript#readme"
+}
