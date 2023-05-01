@@ -16,6 +16,7 @@
   ],
   "author": "Luis Dueñas <luisbulla423@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/laduenasb/curso-emacscript/issues"
   },
